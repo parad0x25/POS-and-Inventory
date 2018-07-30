@@ -1,6 +1,7 @@
 # POS and Inventory
 
-# Database
+<b>Database</b> <br />
   <li>MySQL</li>
-# Editor
+ <br />
+<b>Editor</b><br />
   <li>Visual Studio 2008</li>
